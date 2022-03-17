@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "phpcbf Formatter: Format this file",
+    "command": "format_phpcbf",
+  },
+]

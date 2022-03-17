@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "phpcbf Formatter",
+    "children": [
+      {
+        "caption": "Format This File",
+        "command": "format_phpcbf",
+      },
+    ],
+  },
+]
